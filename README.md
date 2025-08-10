@@ -58,9 +58,7 @@
 <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=itriedcoding&theme=dark"></td><td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=itriedcoding&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
-## Connect with me
 
-<p align="center">X <a href="https://https://x.com/itriedcoding" target="_blank'
 
 <!--
 **itriedcoding/itriedcoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
