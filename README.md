@@ -60,7 +60,7 @@
 
 ## Connect with me
 
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/johndoe" target="_blank">Donovan Patrick</a> Email: johndoe@gmail.com</p>
+<p align="center">X <a href="https://https://x.com/itriedcoding" target="_blank'
 
 <!--
 **itriedcoding/itriedcoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
