@@ -1,6 +1,6 @@
 ## About Me
 
-**I am Donovan Patrick, and I have been coding for over 15 years. I make websites and mobile apps and many other stuffs for many users to make their needs, so they have a good experience. Working on any projects let me know.**
+**I am Donovan Patrick, and I have been coding for over 10+ years. I make websites and mobile apps and many other stuffs for many users to make their needs, so they have a good experience. Working on any projects let me know.**
 
 ## My Skills
 
